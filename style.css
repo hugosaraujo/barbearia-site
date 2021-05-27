@@ -95,13 +95,12 @@ footer{
     margin: 20px 0 0;
 }
 
-main {
-    
+form {
+    width: 940px;
+    margin: 40px auto;
+
 }
 
-form {
-    margin: 40px 0;
-}
 
 form label, form legend {
     display: block;
@@ -138,7 +137,7 @@ form label, form legend {
 }
 
 table {
-    margin: 20px 0 40px;
+    margin: 20px 13em 40px;
 }
 
 thead {
